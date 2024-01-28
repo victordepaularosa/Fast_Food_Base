@@ -41,4 +41,4 @@ Conforme apresentado na arquitetura de dados o projeto foi criado na arquitetura
 
 3 - Gold - Realizar o relacionamento entre as tabelas dimensões com a tabela fato de fast food.
 
-<img src="imagens\notebook_gold.png>
+<img src="imagens\notebook_gold.png">
